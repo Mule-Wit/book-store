@@ -1,6 +1,6 @@
 {
   "available": true,
-  "recommend": {"name":"Love until grave","publisher":"Hadis Alemayehu"},
+  "recommend": { "name": "Love until grave", "publisher": "Hadis Alemayehu" },
   "storeInfo": [
     {
       "key": ":english:teacher:guide:teacher's:grade12:grade:12:",
@@ -22,7 +22,7 @@
       "key": ":math:mathematics:student:textbook:grade12:grade:12:",
       "img": "http://192.168.43.45/bookHub/assets/img/math.png",
       "file": {
-        "url": "http://192.168.43.45/bookHub/assets/files/MathTGG12.pdf",
+        "url": "https://books-hub.netlify.app/assets/files/MathTGG12.pdf",
         "size": 12.517
       }
     }
