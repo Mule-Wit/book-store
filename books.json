@@ -4,23 +4,23 @@
   "storeInfo": [
     {
       "key": ":english:teacher:guide:teacher's:grade12:grade:12:",
-      "img": "http://192.168.43.45/bookHub/assets/img/english.png",
+      "img": "https://books-hub.netlify.app/assets/img/english.png",
       "file": {
-        "url": "http://192.168.43.45/bookHub/assets/files/EngTGG12.pdf",
+        "url": "https://books-hub.netlify.app/assets/files/EngTGG12.pdf",
         "size": 8.757
       }
     },
     {
       "key": ":math:mathematics:teacher:guide:teacher's:grade11:grade:11:",
-      "img": "http://192.168.43.45/bookHub/assets/img/math11.png",
+      "img": "https://books-hub.netlify.app/assets/img/math11.png",
       "file": {
-        "url": "http://192.168.43.45/bookHub/assets/files/MATH-TG11-1.pdf",
+        "url": "https://books-hub.netlify.app/assets/files/MATH-TG11-1.pdf",
         "size": 8.655
       }
     },
     {
       "key": ":math:mathematics:student:textbook:grade12:grade:12:",
-      "img": "http://192.168.43.45/bookHub/assets/img/math.png",
+      "img": "https://books-hub.netlify.app/assets/img/math.png",
       "file": {
         "url": "https://books-hub.netlify.app/assets/files/MathTGG12.pdf",
         "size": 12.517
