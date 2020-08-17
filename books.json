@@ -3,27 +3,195 @@
   "recommend": { "name": "Love until grave", "publisher": "Hadis Alemayehu" },
   "storeInfo": [
     {
+      "key": ":amharic:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Amharic-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Amharic-G12-student.pdf",
+        "size": 6.246
+      }
+    },
+    {
+      "key": ":biology:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Biology-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Biology-G12-student.pdf",
+        "size": 32.606
+      }
+    },
+    {
+      "key": ":chemistry:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Chemistry-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Chemistry-G12-student.pdf",
+        "size": 11.523
+      }
+    },
+    {
+      "key": ":civics:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Civics-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Civics-G12-student.pdf",
+        "size": 4.327
+      }
+    },
+    {
+      "key": ":economics:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Economics-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Economics-G12-student.pdf",
+        "size": 20.306
+      }
+    },
+    {
       "key": ":english:teacher:guide:teacher's:grade12:grade:12:",
-      "img": "https://books-hub.netlify.app/assets/img/english.png",
+      "img": "https://books-hub.netlify.app/assets/img/English-G12.png",
       "file": {
-        "url": "https://books-hub.netlify.app/assets/files/EngTGG12.pdf",
-        "size": 8.757
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/English-G12-student.pdf",
+        "size": 20.822
       }
     },
     {
-      "key": ":math:mathematics:teacher:guide:teacher's:grade11:grade:11:",
-      "img": "https://books-hub.netlify.app/assets/img/math11.png",
+      "key": ":generalbusiness:business:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/General-Business.png",
       "file": {
-        "url": "https://books-hub.netlify.app/assets/files/MATH-TG11-1.pdf",
-        "size": 8.655
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/General-Business-G12-student.pdf",
+        "size": 1.82
       }
     },
     {
-      "key": ":math:mathematics:student:textbook:grade12:grade:12:",
-      "img": "https://books-hub.netlify.app/assets/img/math.png",
+      "key": ":geo:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Geo-G12.png",
       "file": {
-        "url": "https://books-hub.netlify.app/assets/files/MathTGG12.pdf",
-        "size": 12.517
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Geo-G12-student.pdf",
+        "size": 56.037
+      }
+    },
+    {
+      "key": ":ict:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/ICT-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/ICT-G12-student.pdf",
+        "size": 41.74
+      }
+    },
+    {
+      "key": ":maths:mathematics:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Maths-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Maths-G12-student.pdf",
+        "size": 14.98
+      }
+    },
+    {
+      "key": ":physics:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Physics-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Physics-G12-student.pdf",
+        "size": 16.372
+      }
+    },
+    {
+      "key": ":technicalDrawing:td:teacher:guide:teacher's:grade12:grade:12:",
+      "img": "https://books-hub.netlify.app/assets/img/Technical-Drawing-G12.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-12/Technical-Drawing-G12-student.pdf",
+        "size": 11.011
+      }
+    },
+    {
+      "key": ":amharic:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Amharic-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Amharic-G11-student.pdf",
+        "size": 4.553
+      }
+    },
+    {
+      "key": ":biology:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Biology-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Biology-G11-student.pdf",
+        "size": 22.333
+      }
+    },
+    {
+      "key": ":chemistry:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Chemistry-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Chemistry-G11-student.pdf",
+        "size": 15.036
+      }
+    },
+    {
+      "key": ":civics:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Civics-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Civics-G11-student.pdf",
+        "size": 4.137
+      }
+    },
+    {
+      "key": ":economics:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Economics-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Economics-G11-student.pdf",
+        "size": 20.975
+      }
+    },
+    {
+      "key": ":english:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/English-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/English-G11-student.pdf",
+        "size": 17.621
+      }
+    },
+    {
+      "key": ":generalbusiness:business:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/General-Business-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/General-Business-G11-student.pdf",
+        "size": 6.781
+      }
+    },
+    {
+      "key": ":geo:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Geo-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Geo-G11-student.pdf",
+        "size": 44.792
+      }
+    },
+    {
+      "key": ":ict:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/ICT-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/ICT-G11-student.pdf",
+        "size": 56.338
+      }
+    },
+    {
+      "key": ":maths:mathematics:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Maths-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Maths-G11-student.pdf",
+        "size": 39.402
+      }
+    },
+    {
+      "key": ":physics:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Physics-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Physics-G11-student.pdf",
+        "size": 12.821
+      }
+    },
+    {
+      "key": ":technicalDrawing:td:teacher:guide:teacher's:grade11:grade:11:",
+      "img": "https://books-hub.netlify.app/assets/img/Technical-Drawing-G11.png",
+      "file": {
+        "url": "https://books-hub.netlify.app/assets/files/PDFBooks/GRADE-11/Technical-Drawing-G11-student.pdf",
+        "size": 10.022
       }
     }
   ]
